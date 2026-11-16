@@ -1,0 +1,6 @@
+{
+  "name": "Wingo Pulse",
+  "description": "AI-powered Wingo Large/Small and number analysis dashboard with live web feed integration and session tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
